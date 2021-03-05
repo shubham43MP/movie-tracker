@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "readingProgress": "72%",
+      "bookGenre": "Romance",
+      "bookTitle": "Faith",
+      "bookAuthor": "David Adams",
+      "bookImageUrl": "images/nature1.jpg",
+      "description": "A stunning argument for the difference made when a life is lived with faith. No cozy sentimental hearts and flowers Christian, Richards draws on a wide variety of literary and historical sources as he narrates his own circuitous journey to faith. Excellent on the challenges of believing in God in a secular world"
+    },
+    {
+      "id": 2,
+      "readingProgress": "42%",
+      "bookGenre": "Fiction",
+      "bookTitle": "The World of Ice & Fire",
+      "bookAuthor": "George R.R. Martin",
+      "bookImageUrl": "images/nature2.jpg",
+      "description": "This lavishly illustrated volume is a comprehensive history of the Seven Kingdoms, providing vividly constructed accounts of the epic battles, bitter rivalries, and daring rebellions that lead to the events of A Song of Ice and Fire and HBO’s Game of Thrones. In a collaboration that’s been years in the making."
+    },
+    {
+      "id": 3,
+      "readingProgress": "12%",
+      "bookGenre": "Education",
+      "bookTitle": "The Power of Habit",
+      "bookAuthor": "Charles Duhig",
+      "bookImageUrl": "images/nature3.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 4,
+      "readingProgress": "100%",
+      "bookGenre": "Adventure",
+      "bookTitle": "Wild Wisdom",
+      "bookAuthor": "Neil Douglas-Klotz",
+      "bookImageUrl": "images/nature4.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 5,
+      "readingProgress": "54%",
+      "bookGenre": "Nature",
+      "bookTitle": "Into Thin Air",
+      "bookAuthor": "John Krakauer",
+      "bookImageUrl": "images/nature5.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 6,
+      "readingProgress": "6%",
+      "bookGenre": "Fantasy",
+      "bookTitle": "Humans",
+      "bookAuthor": "Brandon Stanton",
+      "bookImageUrl": "images/nature6.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 7,
+      "readingProgress": "90%",
+      "bookGenre": "Education",
+      "bookTitle": "Wonders of the World",
+      "bookAuthor": "Lonely Planet",
+      "bookImageUrl": "images/nature7.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 8,
+      "readingProgress": "54%",
+      "bookGenre": "Romance",
+      "bookTitle": "Paint a New Scene",
+      "bookAuthor": "Neil O'Brien",
+      "bookImageUrl": "images/nature8.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 9,
+      "readingProgress": "88%",
+      "bookGenre": "Travel",
+      "bookTitle": "Chronicles of Meluha",
+      "bookAuthor": "Hitorio-pedia",
+      "bookImageUrl": "images/nature9.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 10,
+      "readingProgress": "36%",
+      "bookGenre": "Fantasy",
+      "bookTitle": "Along the Enchanted Way",
+      "bookAuthor": "William Blacker",
+      "bookImageUrl": "images/nature9.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 11,
+      "readingProgress": "72%",
+      "bookGenre": "Romance",
+      "bookTitle": "Faith",
+      "bookAuthor": "David Adams",
+      "bookImageUrl": "images/nature1.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."
+    },
+    {
+      "id": 12,
+      "readingProgress": "42%",
+      "bookGenre": "Fiction",
+      "bookTitle": "The World of Ice & Fire",
+      "bookAuthor": "George R.R. Martin",
+      "bookImageUrl": "images/nature2.jpg",
+      "description": "This lavishly illustrated volume is a comprehensive history of the Seven Kingdoms, providing vividly constructed accounts of the epic battles, bitter rivalries, and daring rebellions that lead to the events of A Song of Ice and Fire and HBO’s Game of Thrones. In a collaboration that’s been years in the making."
+    },
+    {
+      "id": 13,
+      "readingProgress": "12%",
+      "bookGenre": "Education",
+      "bookTitle": "The Power of Habit",
+      "bookAuthor": "Charles Duhig",
+      "bookImageUrl": "images/nature3.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 14,
+      "readingProgress": "100%",
+      "bookGenre": "Adventure",
+      "bookTitle": "Wild Wisdom",
+      "bookAuthor": "Neil Douglas-Klotz",
+      "bookImageUrl": "images/nature4.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    },
+    {
+      "id": 15,
+      "readingProgress": "54%",
+      "bookGenre": "Nature",
+      "bookTitle": "Into Thin Air",
+      "bookAuthor": "John Krakauer",
+      "bookImageUrl": "images/nature5.jpg",
+      "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed."
+    }
+  ]
+}
