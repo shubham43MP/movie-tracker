@@ -6,7 +6,7 @@ This POC UI shows movie list and is responsive.
 ### Steps to clone the repository
 
 ```
-git clone
+git clone https://github.com/shubham43MP/movie-tracker.git
 cd movie-tracker
 
 ```
